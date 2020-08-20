@@ -1,4 +1,4 @@
-/Sheet.json
+*.json
 /cookies.txt
 /__pycache__/
 /.idea/
